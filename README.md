@@ -11,8 +11,7 @@ In Data weangling we show and cleaning the data like drop, change name of some c
 
 #  Third step
 In EDA we wrot three questions and i visualized it in plots.
-
-# Three questions are 
+ Three questions are:
 who are the most patients female or male? 
 Who are the most infected by diabetes male or female? 
 What is the distribution of the age for the patient who infected diabetes and not infected?
