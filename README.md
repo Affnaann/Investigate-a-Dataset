@@ -1,15 +1,15 @@
 # Investigate-a-Dataset
 
-# Introduction
+## Introduction
 In this project we will analysts the show appointment data this dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row.
 
-# First step
+## First step
 we import the needed library
 
-# Second step
+## Second step
 In Data weangling we show and cleaning the data like drop, change name of some column snd check if we null value
 
-#  Third step
+## Third step
 In EDA we wrot three questions and i visualized it in plots.
 
  Three questions are:
